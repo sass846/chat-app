@@ -1,0 +1,6 @@
+[submodule "chat-app"]
+	path = chat-app
+	url = git@github.com:sass846/chat-app-frontend.git
+[submodule "app-server"]
+	path = app-server
+	url = git@github.com:sass846/chat-app-backend.git
